@@ -46,7 +46,7 @@ body {
     margin-bottom: 20px;
 }
 
-/*tipo de item (perfume)*/
+/*product type (perfume)*/
 #product {
     letter-spacing: 5px;
     text-transform: uppercase;
@@ -59,7 +59,6 @@ body {
     font-family: 'Fraunces', serif;
     color: hsl(212, 21%, 14%);
 }
-
 
 #price {
     display: flex;
@@ -91,7 +90,6 @@ body {
     transition-duration: 0.3s;
 }
 
-
 @media only screen and (max-width: 750px) {
     .container {
         max-width: 500px;
@@ -122,10 +120,5 @@ body {
     .text {
         padding: 2em;
     }
-
     
 }
-
-
-/* aumentar a distância entre o icone e o texto do botão */
-/* ver um jeito de todo o conteúdo se adequar no modo mobile, imagem tá feita, o problema é o conteúdo. Acredito que vou ter que usar o display flex- collumn */
