@@ -80,11 +80,16 @@ body {
 
 .card buttom {
     background-color: hsl(158, 36%, 37%);
-    padding: 15px 75px 15px 75px;
+    padding: 15px;
     color: hsl(0, 0%, 100%);
     border-radius: 0.5em;
-    justify-content: space-between;
+    display: block;
+    text-align: center;
     
+}
+
+.card i {
+    margin-right: 10px;
 }
 
 .card buttom:hover {
@@ -118,10 +123,6 @@ body {
 
     .text p {
         font-size: 1.1em;
-    }
-
-    .card buttom {
-        padding: 15px 105px 15px 105px;
     }
 
     .text {
