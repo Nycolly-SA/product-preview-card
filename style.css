@@ -86,14 +86,21 @@ main, .container {
     text-align: center;
 }
 
+.card buttom:hover {
+    background-color: hsl(157, 31%, 18%);
+    transition-duration: 0.2s;
+}
+
+.card buttom:not(hover) {
+    background-color: hsl(158, 36%, 37%);
+    transition-duration: 0.2s;
+}
+
 .card i {
     margin-right: 10px;
 }
 
-.card buttom:hover {
-    background-color: hsl(157, 31%, 18%);
-    transition-duration: 0.3s;
-}
+
 
 @media only screen and (max-width: 750px) {
     main, .container {
