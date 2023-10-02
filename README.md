@@ -1,1 +1,71 @@
-# product-preview-card
+- [EM PORTUGÊS](#em-português)
+- [IN ENGLISH](#in-english)
+
+### Em Português
+# Card de visualização do produto - Frontend Mentor
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Nycolly-SA/product-preview-card/blob/main/LICENSE) 
+
+Essa é uma solução para o desafio [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) do Frontend Mentor.
+
+# Sobre o projeto
+- Website: https://nycolly-sa.github.io/product-preview-card
+- Solução: [https://frontend.io/solutions/product-preview-card](https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-9sb2N6-MzV)
+
+Esse é meu primeiro projeto finalizado. Aprendi muitas coisas com ele, entre elas:
+- Como centralizar uma div em uma página;
+- Web Design responsivo;
+- Uso das media queries no CSS;
+- Estilos no CSS;
+- Conceitos básicos de flexbox.
+
+### Tecnologias utilizadas
+- Front-end
+  - HTML
+  - CSS
+
+### Recursos úteis
+- [Mozilla - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - Isso me ajudou a entender mais sobre as medias queries.
+- [Mozilla - Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - Isso me ajudou a entender mais sobre as propriedades do flexbox.
+
+
+## Layout mobile
+![Mobile](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/mobile.png)
+
+## Layout web
+![Web 1](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/desktop.png)
+
+
+
+### In English
+# Product preview card - Frontend Mentor
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Nycolly-SA/product-preview-card/blob/main/LICENSE) 
+
+This is a solution to the challenge [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) on Frontend Mentor.
+
+# About the project
+- Website: https://nycolly-sa.github.io/product-preview-card
+- Solution: [https://frontend.io/solutions/product-preview-card](https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-9sb2N6-MzV)
+
+This is my first finished project. I learned many things from it, including:
+- How to center a div on a page;
+- Responsive Web Design;
+- Use of Media queries on CSS;
+- Styles on CSS;
+- Basic concepts of flexbox
+
+
+### Used technologies
+- Front-end
+  - HTML
+  - CSS
+
+### Useful resources
+- [Mozilla - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - This helped me understand more about media queries.
+- [Mozilla - Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - This helped me understand more about flexbox properties.
+
+
+## Mobile layout
+![Mobile](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/mobile.png)
+
+## Web layout
+![Web 1](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/desktop.png)
