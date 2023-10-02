@@ -92,7 +92,6 @@ main, .container {
 }
 
 .card buttom:not(hover) {
-    background-color: hsl(158, 36%, 37%);
     transition-duration: 0.2s;
 }
 
