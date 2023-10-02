@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add live site URL here]([https://your-live-site-url.com](https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-9sb2N6-MzV))
+- Solution URL: (https://your-live-site-url.com](https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-9sb2N6-MzV)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
