@@ -22,12 +22,12 @@ Esse é meu primeiro projeto finalizado. Aprendi muitas coisas com ele, entre el
   - CSS
 
 ### Recursos úteis
-- [Mozilla - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - Isso me ajudou a entender mais sobre as medias queries.
+- [Mozilla - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - Isso me ajudou a entender mais sobre medias queries.
 - [Mozilla - Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - Isso me ajudou a entender mais sobre as propriedades do flexbox.
 
 
 ## Layout mobile
-![Mobile](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/mobile.png)
+<img src='https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/mobile.png' alt='Mobile' width='350px'>
 
 ## Layout web
 ![Web 1](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/desktop.png)
@@ -61,7 +61,7 @@ This is my first finished project. I learned many things from it, including:
 
 
 ## Mobile layout
-![Mobile](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/mobile.png)
+<img src='https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/mobile.png' alt='Mobile' width='350px'>
 
 ## Web layout
 ![Web 1](https://github.com/Nycolly-SA/assets/blob/main/product-preview-card/desktop.png)
