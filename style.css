@@ -42,56 +42,59 @@ main, .container {
     color: hsl(228, 12%, 48%);
 }
 
-#description {
+.description {
     line-height: 1.7em;
 }
 
-.text p, h1, h5 {
+.text p, h1, h2, h5 {
     margin-bottom: 20px;
 }
 
 /*product type (perfume)*/
-#product {
+.product {
     letter-spacing: 5px;
     text-transform: uppercase;
     color: hsl(228, 12%, 48%);
     font-size: small;
 }
 
-.text h1 {
+.text h1, h2 {
     font-size: 2.5em;
     font-family: 'Fraunces', serif;
     color: hsl(212, 21%, 14%);
     line-height: 0.9em;
 }
 
-#price {
+.price {
     display: flex;
     flex-direction: row;
     align-items: center;
     margin-bottom: 25px;
 }
 
-#price h1 {
+.price h2 {
     color: hsl(158, 36%, 37%);
     margin-right: 20px;
 }
 
-.card buttom {
+.card button {
     background-color: hsl(158, 36%, 37%);
     padding: 15px;
     color: hsl(0, 0%, 100%);
-    border-radius: 0.5em;
-    display: block;
+    border: none;
+    border-radius: 0.6em;
     text-align: center;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
 }
 
-.card buttom:hover {
+.card button:hover {
     background-color: hsl(157, 31%, 18%);
     transition-duration: 0.2s;
 }
 
-.card buttom:not(hover) {
+.card button:not(hover) {
     transition-duration: 0.2s;
 }
 
@@ -120,7 +123,7 @@ main, .container {
         max-width: 390px;
     }
 
-    .text h1 {
+    .text h1, h2 {
         font-size: 2.3em;
     }
 
