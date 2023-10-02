@@ -3,8 +3,6 @@
 
 ### Em Português
 # Card de visualização do produto - Frontend Mentor
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Nycolly-SA/product-preview-card/blob/main/LICENSE) 
-
 Essa é uma solução para o desafio [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) do Frontend Mentor.
 
 # Sobre o projeto
@@ -38,8 +36,6 @@ Esse é meu primeiro projeto finalizado. Aprendi muitas coisas com ele, entre el
 
 ### In English
 # Product preview card - Frontend Mentor
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Nycolly-SA/product-preview-card/blob/main/LICENSE) 
-
 This is a solution to the challenge [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) on Frontend Mentor.
 
 # About the project
