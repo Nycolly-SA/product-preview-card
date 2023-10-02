@@ -9,12 +9,15 @@ Essa é uma solução para o desafio [Product preview card component](https://ww
 - Website: https://nycolly-sa.github.io/product-preview-card
 - Solução: [https://frontend.io/solutions/product-preview-card](https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-9sb2N6-MzV)
 
-Esse é meu primeiro projeto finalizado. Aprendi muitas coisas com ele, entre elas:
+Esse é meu primeiro projeto finalizado. Inclusive é a primeira vez que uso GitHub (talvez esse seja o motivo de tantos commits 😅). 
+Aprendi muitas coisas com esse projeto, entre elas:
 - Como centralizar uma div em uma página;
 - Web Design responsivo;
 - Uso das media queries no CSS;
 - Estilos no CSS;
-- Conceitos básicos de flexbox.
+- Conceitos básicos de flexbox;
+- Como publicar um projeto no GitHub;
+  - E como publicar no Github dentro do vscode.
 
 ### Tecnologias utilizadas
 - Front-end
@@ -41,12 +44,15 @@ This is a solution to the challenge [Product preview card component](https://www
 - Website: https://nycolly-sa.github.io/product-preview-card
 - Solution: [https://frontend.io/solutions/product-preview-card](https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-9sb2N6-MzV)
 
-This is my first finished project. I learned many things from it, including:
+This is my first finished project. This is also the first time I use GitHub (maybe that's the reason for so many commits 😅).
+I learned many things from this project, including:
 - How to center a div on a page;
 - Responsive Web Design;
 - Use of Media queries on CSS;
 - Styles on CSS;
-- Basic concepts of flexbox
+- Basic concepts of flexbox;
+- How to publish a project on GitHub;
+  - And how to publish on GitHub inside vscode.
 
 
 ### Used technologies
