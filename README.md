@@ -1,4 +1,4 @@
-- [EM PORTUGÊS](#em-português)
+- [EM PORTUGUÊS](#em-português)
 - [IN ENGLISH](#in-english)
 
 ### Em Português
